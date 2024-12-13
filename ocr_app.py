@@ -1,3 +1,11 @@
+"""To run this file do the following steps 
+!pip install paddlepaddle-gpu
+!python -m pip install paddlepaddle
+!pip install "paddleocr>=2.0.1"
+!pip install streamlit
+!pip install pillow
+!streamlit run ocr_app.py"""
+
 #!  C:\Users\chand\python\myenv\Scripts\python.exe
 
 import streamlit as st
